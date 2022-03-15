@@ -213,3 +213,8 @@ body {
   flex-wrap: wrap;
   list-style: none;
 }
+.footer {
+  padding-left: 15px;
+  margin-bottom: 20px;
+  text-align: left;
+}
